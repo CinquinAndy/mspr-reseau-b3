@@ -1,9 +1,9 @@
 Cette application correspond à l'application finale pour la MSPR Réseau de B3 
-Groupe constitué de : 
-Gauthier Mathis
-LeFloch Bréval
-Tostivin Marin
-Cinquin Andy
+Groupe constitué de :  
+Gauthier Mathis   
+LeFloch Bréval  
+Tostivin Marin  
+Cinquin Andy  
 
 ## Getting Started
 ### 1. install dependencies
